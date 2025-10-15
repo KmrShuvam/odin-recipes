@@ -1,6 +1,6 @@
 # odin-recipes
 This is a simple recipe webpage, consiting of several 
-recipes to mouthwatering Indo-chinese dishes.
+recipes to mouthwatering dishes.
 
 
 It will employ the use of HTML elements like images, paragraph, heading, anchor
